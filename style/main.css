@@ -13,8 +13,8 @@ main img {
 
     transition: 0.2s ease-in-out;
 
-    border: 4px solid transparent;
-    background: linear-gradient(#f0eeea, #706461, #e6eaeb)padding-box,linear-gradient(260deg,#71749b, #df468d, #4f4b58) border-box;
+    /*border: 4px solid transparent;
+    background: linear-gradient(#f0eeea, #706461, #e6eaeb)padding-box,linear-gradient(260deg,#71749b, #df468d, #4f4b58) border-box;*/
 }
 
 
