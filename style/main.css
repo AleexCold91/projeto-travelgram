@@ -10,4 +10,14 @@ main img {
     width: 286px;
     height: 286px;
     object-fit: cover;
+
+    transition: 0.2s ease-in-out;
+
+    border: 4px solid transparent;
+    background: linear-gradient(#f0eeea, #706461, #e6eaeb)padding-box,linear-gradient(260deg,#71749b, #df468d, #4f4b58) border-box;
+}
+
+
+main img:hover {
+    transform: scale(1.05); 
 }
